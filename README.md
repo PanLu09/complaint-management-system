@@ -1,4 +1,4 @@
-# Complaint Management Agent
+# Complaint Management System
 
 ## Tech Stack
 - Frontend: React, TypeScript, Vite, Tailwind CSS
